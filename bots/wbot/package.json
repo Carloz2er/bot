@@ -1,0 +1,13 @@
+{
+    "name": "wbot",
+    "version": "1.0.0",
+    "description": "Auto-generated file created by DBP",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "license": "MIT",
+    "author": "jareer12/github",
+    "dependencies": {
+        "discord.js": "^13.5.1"
+    }
+}
